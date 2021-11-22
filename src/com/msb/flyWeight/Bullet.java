@@ -15,7 +15,7 @@ public class Bullet {
     }
 }
 
-public class BulletPool {
+class BulletPool {
     List<Bullet> bullets = new ArrayList<>();
 
     {
